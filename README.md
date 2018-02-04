@@ -1,2 +1,4 @@
 # hello-world
-My first repository, for getting myself started.
+
+I can't wait to work on some bash repositories.
+Or php.
